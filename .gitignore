@@ -15,6 +15,9 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-#System Files
+# System Files
 .DS_Store
 Thumbs.db
+
+# .out compiled files
+*.out
